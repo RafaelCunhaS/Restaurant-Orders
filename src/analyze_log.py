@@ -1,5 +1,5 @@
 import csv
-from track_orders import TrackOrders
+from src.track_orders import TrackOrders
 
 
 def analyze_log(path_to_file):
